@@ -1,0 +1,16 @@
+{
+  "name": "iteratorstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "exercise-one": "node exercise-1.js",
+    "exercise-two": "node exercise-2.js",
+    "exercise-three": "node exercise-3.js"
+  },
+  "author": "Ebonom Mfam",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
